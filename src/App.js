@@ -38,6 +38,13 @@ const App = () => {
 				<button className='button' onClick={clickHandler}>
 					<span>Randomize!</span>
 				</button>
+				<a
+					className='url'
+					href='https://amay.bio.link'
+					target='_blank'
+					rel='noreferrer'>
+					@BrajBliss
+				</a>
 			</div>
 		</div>
 	);
