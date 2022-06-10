@@ -1,5 +1,4 @@
-# randomQuote
-Simple ReactJS Web App to generate random quotes.
+# Simple ReactJS Web App to generate random quotes, deployed on vercel. [LIVE DEMO](https://randomadvicequote.vercel.app/).
 
 # Getting Started with Create React App
 
