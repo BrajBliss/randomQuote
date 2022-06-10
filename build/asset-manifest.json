@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3447fdc8.css",
+    "main.js": "/static/js/main.974e40a5.js",
+    "static/media/alek-newton-Y-8-JmHeWVg-unsplash (1).jpg": "/static/media/alek-newton-Y-8-JmHeWVg-unsplash (1).4a00a9d6cb4bead3e0df.jpg",
+    "index.html": "/index.html",
+    "main.3447fdc8.css.map": "/static/css/main.3447fdc8.css.map",
+    "main.974e40a5.js.map": "/static/js/main.974e40a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3447fdc8.css",
+    "static/js/main.974e40a5.js"
+  ]
+}
